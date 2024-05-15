@@ -9,6 +9,12 @@ __pycache__/
 # .idea
 .idea/
 
+# archivo de test
+test.ipynb
+
+#~lock
+data/.~lock.sleep.csv#
+
 # Distribution / packaging
 .Python
 build/
