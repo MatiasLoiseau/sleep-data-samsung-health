@@ -13,3 +13,5 @@ This repository contains a brief analysis of my sleeping habits using visualizat
 ## Useful links
 
 [How to download your personal data from Samsung Health](https://www.samsung.com/us/support/answer/ANS00085104/)
+
+[A Note on Long Labels](https://www.data-to-viz.com/caveat/hard_label.html)
