@@ -15,6 +15,7 @@ test.ipynb
 #~lock
 data/.~lock.sleep.csv#
 data/.~lock.sleep_short.csv#
+data/.~lock.formated_data_short.csv#
 
 # Distribution / packaging
 .Python
